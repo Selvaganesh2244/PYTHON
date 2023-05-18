@@ -5,4 +5,4 @@ if (x-y>0):
 else:
     b = x-y
 z = b * (x + y)
-print(x)
+print(z)

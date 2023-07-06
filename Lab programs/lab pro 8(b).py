@@ -1,0 +1,6 @@
+file1=open("file.txt","r")
+file=open("python.txt","a")
+x=file1.read()
+file.write(x)
+file1.close()
+file.close()
